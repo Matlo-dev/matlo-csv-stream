@@ -1,0 +1,22 @@
+[
+  {
+    "columnName": "commit",
+    "type": "other",
+    "typeSettings": { "subtype": "id" }
+  },
+  {
+    "columnName": "author",
+    "type": "terms",
+    "typeSettings": {}
+  },
+  {
+    "columnName": "date",
+    "type": "date",
+    "typeSettings": { "mask": "YYYY/MM/DD HH:mm:ss" }
+  },
+  {
+    "columnName": "title",
+    "type": "other",
+    "typeSettings": { "subtype": "text" }
+  }
+]

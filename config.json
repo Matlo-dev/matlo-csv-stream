@@ -1,0 +1,17 @@
+{
+  "matlo": {
+    "user": "[USER_UUID]",
+    "token": "[USER_TOKEN]",
+    "dashboard": {
+      "title": "Matlo-client example : commits",
+      "tags": ["example", "client", "API"]
+    }
+  },
+  "data": {
+    "file": "./data/sample.csv",
+    "delimiter": ";"
+  },
+  "stream": {
+    "bulkSize": "10"
+  }
+}
