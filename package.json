@@ -1,0 +1,23 @@
+{
+  "name": "matlo-csv-stream",
+  "version": "0.0.0",
+  "description": "Stream CSV file to Matlo",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Matlo-dev/matlo-csv-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Matlo-dev/matlo-csv-stream/issues"
+  },
+  "author": "Matlo-dev",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "csv-parse": "^2.2.0",
+    "matlo": "^0.1.1"
+  }
+}
